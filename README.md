@@ -1,4 +1,4 @@
-![Logo React Vite](image1)
+![Logo React Vite](react+vite.png)
 
 # React + Vite
 
